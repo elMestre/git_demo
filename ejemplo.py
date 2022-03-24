@@ -1,1 +1,3 @@
-print("holla Demo git")
+msg = "holla Demo git"
+
+print(msg)
