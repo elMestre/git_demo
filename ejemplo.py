@@ -1,11 +1,6 @@
-msg = "holla Demo git"
-
-alternativa = "lalalalala"
-
-
 mensajes = [
-    msg,
-    alternativa
+    "holla Demo git",
+    "lalalalala"
 ]
 
 for mensaje in mensajes:
