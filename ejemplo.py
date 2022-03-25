@@ -3,4 +3,10 @@ msg = "holla Demo git"
 alternativa = "lalalalala"
 
 
-print(msg + " [" + alternativa + "]")
+mensajes = [
+    msg,
+    alternativa
+]
+
+for mensaje in mensajes:
+    print(mensaje)
