@@ -1,3 +1,6 @@
 msg = "holla Demo git"
 
-print(msg)
+alternativa = "lalalalala"
+
+
+print(msg + " [" + alternativa + "]")
