@@ -1,6 +1,6 @@
-msg = "holla Demo git"
+msg = "Es hora de desayunar"
 
-alternativa = "lalalalala"
+alternativa = "lelelelelele"
 
 
 mensajes = [
